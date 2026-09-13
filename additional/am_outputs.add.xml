@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+    <edgeData id="am_analysis_5min" begin="900" end="4500" period="300" file="../outputs/generated/edgeData.xml.gz" excludeEmpty="true"/>
+</additional>

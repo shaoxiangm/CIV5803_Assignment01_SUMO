@@ -1,0 +1,4 @@
+﻿corridor_id,corridor_name,length_km,traffic_volume,mean_speed_kmh,speed_std_kmh,travel_time_s,stops_per_trip,stops_per_km,waiting_time_s,intersection_waiting_time_s,mean_queue_length_m,max_queue_length_m,timeLoss_s,car_share_pct,motorcycle_share_pct,lgv_share_pct,hgv_share_pct,bus_share_pct
+C1,Lebuh Chulia,0.147,547,27.139,29.979,215.559,1.761,12.014,29.761,29.761,6.658,53.99,15.1,50.823,45.338,1.828,0.0,2.011
+C2,Jalan Masjid Kapitan Keling,0.217,788,33.774,29.744,240.079,2.316,10.691,42.713,42.713,7.01,43.16,15.273,53.299,44.036,1.015,0.0,1.65
+C3,Lebuh Farquhar,0.199,1035,60.311,34.518,180.829,1.426,7.162,26.06,26.06,0.57,34.77,5.149,50.628,46.473,1.449,0.097,1.353

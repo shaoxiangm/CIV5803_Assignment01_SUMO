@@ -1,0 +1,2 @@
+﻿status,loaded,inserted,insertion_rate,completed,remaining,unfinished_trips,route_errors,major_warnings,decision
+PASS_WITH_LIMITATIONS,3640,3526,0.9687,3509,131,17,0,1,FREEZE_BASELINE09
