@@ -1,5 +1,7 @@
 # CIV5803 SUMO baseline09
 
+[中文](README_zh-CN.md) | **English**
+
 This repository contains the SUMO baseline developed for a CIV5803 electric mobility planning project. It is a frozen, corridor-level comparative traffic baseline for George Town, Penang. It is not a fully calibrated real-world traffic forecast model.
 
 ## Purpose
